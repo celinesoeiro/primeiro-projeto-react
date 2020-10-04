@@ -67,7 +67,7 @@ export const RepositoryInfo = styled.section`
         color: #3d3d4d;
       }
 
-      p {
+      span {
         display: block;
         color: #6c6c80;
         margin-top: 4px;
