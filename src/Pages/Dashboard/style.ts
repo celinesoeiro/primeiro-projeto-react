@@ -2,7 +2,7 @@ import styled, { css } from 'styled-components';
 import { shade } from 'polished';
 
 interface FormProps {
-  hasError: Boolean;
+  hasError: boolean;
 }
 
 export const Title = styled.h1`
